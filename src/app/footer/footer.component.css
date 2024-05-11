@@ -1,0 +1,23 @@
+div{
+    background-color: blanchedalmond;
+    width: 100%;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 5px;
+}
+
+a{
+ text-align: center;
+   font-size: 15px;
+   margin-left: 10px;
+   text-decoration: none;
+}
+
+.block{
+text-align: center;
+margin-bottom: 20px;
+}

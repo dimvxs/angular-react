@@ -1,0 +1,25 @@
+div{
+    width: 100%;
+    height: 500px;
+    background-color: azure;
+}
+
+ul{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.ru{
+    background-color: rgb(251, 0, 0);
+}
+
+.usa{
+    background-color: rgb(247, 0, 255);
+}
+
+.china{
+    background-color: rgb(190, 0, 60);
+}
